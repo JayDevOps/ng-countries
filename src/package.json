@@ -1,0 +1,28 @@
+{
+  "name": "ng-countries",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JayDevOps/ng-countries.git"
+  },
+  "author": {
+    "name": "Jay DevOps LLC",
+    "email": "22436725+vairamsvsjdo@users.noreply.github.com"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JayDevOps/ng-countries.git/issues"
+  },
+  "main": "ng-countries.umd.js",
+  "module": "ng-countries.js",
+  "jsnext:main": "ng-countries.js",
+  "typings": "ng-countries.d.ts",
+  "dependencies": {
+    "@angular/core": "^5.2.4",
+    "rxjs": "^5.1.0",
+    "zone.js": "^0.8.4"
+  }
+}
